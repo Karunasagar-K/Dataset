@@ -1,0 +1,9 @@
+memid,first_name,last_name,movieid
+1,Alicia,Alarcon,1
+2,Don,Draper,2
+3,Lizzie,Moss,5
+4,Eldon,Chance,8
+5,Jenny,Patterson,10
+6,Craig,Daniels,NULL
+7,Denny,Peters,NULL
+8,Patty,Pattinson,NULL
